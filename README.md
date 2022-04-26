@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: [Twitter](https://www.twitter.com/kenshin_del/)
-- 😄 Pronouns: He/Her
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak Indonesian :)
 
 <br />
