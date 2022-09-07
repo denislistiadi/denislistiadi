@@ -3,7 +3,7 @@
 ### I'm a developer JR. I like to make stuff and post it on the internet! 👽
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
-- 📫 How to reach me: [Twitter](https://www.twitter.com/denis_listiadi/)
+- 📫 How to reach me: [Web](https://denislistiadi.my.id)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak Indonesian :)
 
