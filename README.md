@@ -1,13 +1,13 @@
 ## Hello World, I'm Denis 👋
 
-### I'm a developer JR. I like to make stuff and post it on the internet! 👽
+### I'm a Frontend Developer. I like to make stuff and post it on the internet! 👽
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me: [Web](https://denislistiadi.my.id)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I speak Indonesian :)
 
-<br />
+---
 
 ### Languages and Tools:
 
@@ -26,3 +26,8 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Github Stats
+![Denis Listiadi GitHub stats](https://github-readme-stats.vercel.app/api?username=denislistiadi&show_icons=true&theme=radical)
