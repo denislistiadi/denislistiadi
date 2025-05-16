@@ -1,9 +1,9 @@
-#### 👋 Hi! I'm Denis Listiadi
-#### 💻 Full-Stack Developer | Tech Enthusiast
-#### 🚀 Building solutions with JavaScript, React, Node.js, and Next.js
-#### 🔧 Currently exploring IoT and Python Automation
-#### 📚 Open-source contributor | Lifelong learner
-#### 🌱 Passionate about clean code & problem-solving
+##### 👋 Hi! I'm Denis Listiadi
+##### 💻 Full-Stack Developer | Tech Enthusiast
+##### 🚀 Building solutions with Typescript, JavaScript, React, Node.js, and Next.js
+##### 🔧 Currently exploring React Native
+##### 📚 Open-source contributor | Lifelong learner
+##### 🌱 Passionate about clean code & problem-solving
 
 ---
 
