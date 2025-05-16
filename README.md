@@ -1,4 +1,4 @@
-##### 👋 Hi! I'm Denis Listiadi
+## Hi! I'm Denis Listiadi 👋
 ##### 💻 Full-Stack Developer | Tech Enthusiast
 ##### 🚀 Building solutions with Typescript, JavaScript, React, Node.js, and Next.js
 ##### 🔧 Currently exploring React Native
