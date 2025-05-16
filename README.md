@@ -1,11 +1,9 @@
-## Hello World, I'm Denis 👋
-
-### I'm a Frontend Developer. I like to make stuff and post it on the internet! 👽
-- 🌱 I’m currently learning React Native 
-- 👯 I’m looking to collaborate on open source
-- 📫 How to reach me: [Web](https://denislistiadi.my.id)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak Indonesian :)
+#### 👋 Hi! I'm Denis Listiadi
+#### 💻 Full-Stack Developer | Tech Enthusiast
+#### 🚀 Building solutions with JavaScript, React, Node.js, and Next.js
+#### 🔧 Currently exploring IoT and Python Automation
+#### 📚 Open-source contributor | Lifelong learner
+#### 🌱 Passionate about clean code & problem-solving
 
 ---
 
@@ -29,3 +27,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+_"Turning caffeine into code, one commit at a time."_ ☕
