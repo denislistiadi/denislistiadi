@@ -3,7 +3,7 @@
 
 🚀 Building solutions with Typescript, JavaScript, React, Node.js, and Next.js
 
-🔧 Currently exploring React Native
+🔧 Currently exploring Python
 
 📚 Open-source contributor | Lifelong learner
 
