@@ -1,13 +1,11 @@
-## Hi! I'm Denis Listiadi 👋
-💻 Full-Stack Developer | Tech Enthusiast
+Hi! I'm Denis Listiadi 👋   
+Frontend Developer | Future Full-Stack Engineer  
+----
 
-🚀 Building solutions with Typescript, JavaScript, React, Vue, Node.js, and Next.js
-
-🔧 Currently exploring Python
-
-📚 Open-source contributor | Lifelong learner
-
-🌱 Passionate about clean code & problem-solving
+🚀 Crafting interactive, high-performance web experiences with React, Vue, TypeScript, and Next.js  
+💡 Currently diving deeper into backend with Python  
+🌱 Passionate about clean architecture, scalability, and great UI/UX  
+📚 Lifelong learner & open-source enthusiast
 
 ---
 
@@ -17,9 +15,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![wordpress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=for-the-badge&logo=ant-design&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)
