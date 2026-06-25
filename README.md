@@ -19,9 +19,7 @@ React · Next.js · Vue · TypeScript · Node.js · PHP · Python · Docker
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denislistiadi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=denislistiadi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denislistiadi&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denislistiadi&layout=compact&count_private=true&theme=tokyonight&hide_border=true" />
-</p>
